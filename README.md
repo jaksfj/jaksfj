@@ -25,7 +25,7 @@
 ### ✈️ 여행 일정 추천 서비스 (TripMate)
 - 사용자 선택 기반 일정 자동 생성 기능 구현
 - RESTful API 설계 및 데이터 흐름 구조 설계
-👉 https://github.com/409ProjectTeam/tripmate
+👉 https://github.com/jaksfj/tripmate_backend
 
 ---
 
