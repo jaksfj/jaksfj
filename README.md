@@ -14,7 +14,6 @@
 # 🚀 Projects
 
 ### 🧃 AI 과일 당도 측정 & 거래 플랫폼 (Brix)
-- RGB 카메라 + CNN 기반 당도 예측 시스템 구현
 - Spring Boot 기반 REST API 서버 개발
 - AWS EC2 + MySQL 배포 및 운영
 - Redis 캐싱을 통한 성능 개선
