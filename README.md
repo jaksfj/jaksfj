@@ -13,14 +13,14 @@
 
 # 🚀 Projects
 
-### 🧃 AI 과일 당도 측정 & 거래 플랫폼 (Brix)
+### AI 과일 당도 측정 & 거래 플랫폼 (Brix)
 - Spring Boot 기반 REST API 서버 개발
 - AWS EC2 + MySQL 배포 및 운영
 👉 https://github.com/SUGAI-BRIX/25_HC122
 
 ---
 
-### ✈️ 여행 일정 추천 서비스 (TripMate)
+### 여행 일정 추천 서비스 (TripMate)
 - RESTful API 설계 및 데이터 흐름 구조 설계
 👉 https://github.com/jaksfj/tripmate_backend
 
