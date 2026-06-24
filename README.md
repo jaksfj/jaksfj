@@ -15,7 +15,7 @@
 
 ### AI 과일 당도 측정 & 거래 플랫폼 (Brix)
 - Spring Boot 기반 REST API 서버 개발
-- AWS EC2 + MySQL 배포 및 운영
+- AWS EC2 + MySQL(rds) 구성
 👉 https://github.com/SUGAI-BRIX/25_HC122
 
 ---
