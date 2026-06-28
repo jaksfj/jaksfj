@@ -11,7 +11,7 @@
 
 ---
 
-# 🚀 Projects
+# Projects
 
 ### AI 과일 당도 측정 & 거래 플랫폼 (Brix)
 - Spring Boot 기반 REST API 서버 개발
@@ -26,9 +26,9 @@
 
 ---
 
-# 💪 Skills
+# Skills
 
-### 🖥 Platforms & Languages
+### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-### 🛠 Tools & DevOps
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
